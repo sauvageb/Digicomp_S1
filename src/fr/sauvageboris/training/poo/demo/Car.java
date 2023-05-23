@@ -1,4 +1,4 @@
-package fr.sauvageboris.training.poo;
+package fr.sauvageboris.training.poo.demo;
 
 public class Car {
     // Attributs
