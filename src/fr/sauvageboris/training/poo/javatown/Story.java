@@ -2,6 +2,9 @@ package fr.sauvageboris.training.poo.javatown;
 
 import fr.sauvageboris.training.poo.javatown.model.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Story {
 
     public static void main(String[] args) {
