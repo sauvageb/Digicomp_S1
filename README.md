@@ -1,9 +1,11 @@
 # Sujets abordés ensemble :
+- Les fondamentaux Java SE (5 jours)
+
+# Bonus :
 - Les patrons de conceptions - https://refactoring.guru/fr
 - OWASP - https://owasp.org/www-project-top-ten
 - Maven - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
-- Ouvrir github avec la vue editeur : https://github.dev/sauvageb/Digicomp_java_fondamentaux
-  -  (Utiliser github.dev au lieu de github.fr)
+- Ouvrir github avec la vue editeur : (Utiliser github.dev au lieu de github.fr)
 
 # Lien de sites pour s'entrainer en java :
 
